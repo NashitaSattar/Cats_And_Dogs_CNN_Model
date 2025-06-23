@@ -1,4 +1,4 @@
-# CNN_Model_Cats_And_Dogs
+# Cats_And_Dogs_CNN_Model
 This project implements a Convolutional Neural Network (CNN) to classify images as either cats or dogs using RGB images. Built with TensorFlow/Keras, the model is trained on a labeled image dataset and can predict new inputs with high accuracy.
 
 
